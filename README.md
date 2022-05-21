@@ -1,5 +1,5 @@
-# ALPR
-<h1>Automatic License Plate Recognition and Color Detection<h1/>
+<h1>ALPR</h1>
+<h2>Automatic License Plate Recognition and Color Detection</h2>
 
 ***DETECT LICENSE PLATE***<br/>
 1.Read image using opencv and resize using imutils<br/>
