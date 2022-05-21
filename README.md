@@ -1,10 +1,10 @@
 # ALPR
 ##Automatic License Plate Recognition and Color Detection
 
-###DETECT LICENSE PLATE
-1.Read image using opencv and resize using imutils
-2.Convert to gray scale and reduce noise using bilateral filter
-3.Use Canny Edge Detection Algorithm 
+###DETECT LICENSE PLATE<br/>
+1.Read image using opencv and resize using imutils<br/>
+2.Convert to gray scale and reduce noise using bilateral filter<br/>
+3.Use Canny Edge Detection Algorithm <br/>
 4.Find and draaw contours
 5.Mask the license plate
 
