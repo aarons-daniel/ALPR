@@ -1,5 +1,5 @@
 # ALPR
-#Automatic License Plate Recognition and Color Detection
+<h1>Automatic License Plate Recognition and Color Detection<h1/>
 
 ***DETECT LICENSE PLATE***<br/>
 1.Read image using opencv and resize using imutils<br/>
